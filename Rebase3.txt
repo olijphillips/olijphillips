@@ -2,6 +2,8 @@ Origen
 
 Fix 1
 
+Fix 2
+
 Feature 1
 
 Feature 2
